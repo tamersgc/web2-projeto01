@@ -1,0 +1,48 @@
+body {
+    font-family: "Open Sans", sans-serif;
+
+    text-align: center;
+}
+
+#main {
+    width: 592px;
+    margin: 50px auto 100px;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 49px;
+    font-weight: normal;
+    line-height: 56px;
+
+    margin-bottom: 50px;
+}
+
+h1 span {
+    font-weight: bold;
+
+}
+
+span, a {
+    color: #299626;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    color: #7D7987;
+    font-size: 14px;
+    line-height: 28px;
+
+}
+
+hr {
+    width: 568px;
+    height: 0;
+    margin-bottom: 8px;
+    border: 1px solid #ECEFF2;
+}
+
